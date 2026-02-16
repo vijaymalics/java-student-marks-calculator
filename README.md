@@ -3,5 +3,4 @@
 
 
 ## Output Screenshot
-![Output]
-(StudentMarksCalculator_Output.jpg)
+![Output](StudentMarksCalculator_Output.jpg)

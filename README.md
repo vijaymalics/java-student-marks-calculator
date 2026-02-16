@@ -1,5 +1,8 @@
 ## Code Screenshot
-![Output](StudentMarksCalculator_Output.jpg)
+![Output]
+![Code](StudentMarksCalculator.jpg)
+
 
 ## Output Screenshot
-![Code](StudentMarksCalculator.jpg)
+![Output]
+(StudentMarksCalculator_Output.jpg)

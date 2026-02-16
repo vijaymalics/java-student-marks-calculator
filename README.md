@@ -1,2 +1,5 @@
-# java-student-marks-calculator
-Java program to calculate student marks and grade.
+## Output Screenshot
+![Output](output.png)
+
+## Code Screenshot
+![Code](code.png)

@@ -1,5 +1,5 @@
 ## Output Screenshot
-![Output](output.png)
+![Output](StudentMarksCalculator.jpg)
 
 ## Code Screenshot
-![Code](code.png)
+![Code](StudentMarksCalculator_Output.jpg)

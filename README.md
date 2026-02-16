@@ -1,5 +1,4 @@
 ## Code Screenshot
-![Output]
 ![Code](StudentMarksCalculator.jpg)
 
 

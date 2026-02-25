@@ -72,5 +72,5 @@ This project helped me understand:
 ---
 
 ## 👨‍💻 Author
-Vijay Laxman Mali  
+Mali Vijay Laxman 
 GitHub: https://github.com/vijaymalics
